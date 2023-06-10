@@ -1,4 +1,5 @@
 ---
 share: true
 ---
-[Econometrics](Econometrics.md)
+- [Econometrics](Econometrics.md)
+- [Economists](Economists.md)
